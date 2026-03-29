@@ -112,7 +112,3 @@ python main.py
 - Add pause menu and settings
 - Add high score persistence to file
 - Add start screen and instructions overlay
-
-## Author
-
-GitHub: https://github.com/Smurf228
